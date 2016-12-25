@@ -11,6 +11,9 @@ At frontend user can use Category widget, add products to cart and create orders
 Once order has benn created user receive email about order.
 One should add proper smtp mail configuration in web.php.
 
+demo
+http://website777.byethost16.com
+
 
 
 DIRECTORY STRUCTURE
